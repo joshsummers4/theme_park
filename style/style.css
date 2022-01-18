@@ -1,0 +1,72 @@
+/*navbar */
+.nav-link{
+    margin-right: 20px;
+}
+
+/* HOME */
+/* home carousel */
+.slideShow{
+    min-height: 200px;
+    height: 75vh;
+    width: 100%;
+    justify-content: center;
+}
+.carousel{
+    border-radius: .25rem;
+}
+.carouselTitle{
+    background-color: rgba(0,0,0,0.4);
+    background-size: cover;
+    height: 100%;
+    color: white;
+}
+.carouselHeading{
+    font-size: 5em;
+}
+
+/* home cards */
+.cardBack{
+    background-color: #E7EBEE;
+}
+.card{
+    margin: 10px;
+    padding: 10px 10%;
+    background-color: white;
+    height: 500px;
+}
+.card img{
+    height: 200px;
+}
+.card-footer{
+    background-color: white;
+}
+
+/* all pages apart form home*/
+.pageHeader{
+    background:url(../photos/header.png) no-repeat center; 
+    background-size: cover;
+    height: 100px;
+}
+
+/* sale bar */
+.saleButton{
+    border-radius: 0px;
+}
+
+/*Rides */
+.rideOne{
+    background-color: #E7EBEE;
+}
+.rideTwo{
+    background-color: #ffffff;
+}
+
+/* prices */
+.priceImage{
+    width: 100%;
+}
+
+/*footer */
+.siteMap a{
+    color: white;
+}
